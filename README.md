@@ -2,4 +2,4 @@
 
 ## latihan python
 
-![](main/gambar/Screenshot%20(1).png)
+![](/gambar/Screenshot%20(1).png)
